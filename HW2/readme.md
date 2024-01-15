@@ -13,7 +13,7 @@ Develop printDiamond to print an ASCII art diamond based on a positive integer n
 ## printPrimeFactors(x)
 Utilize a specific algorithm in printPrimeFactors to print prime factors of a positive integer x in a formatted manner
 
-## Repeating Pattern
+## repeatingPattern
 Design repeating pattern to draw on a Tkinter canvas within a grid of squares. Follow constraints, including using loops and having alternate versions of the pattern
 
 ## getSecretMessage(s, key)

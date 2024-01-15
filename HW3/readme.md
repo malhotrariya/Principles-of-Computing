@@ -1,4 +1,5 @@
 # HW-3 Data Structures and Efficiency
+The assignment contains coding on the following topics:
 
 ## Lists and Methods
 Implement onlyPositive(lst) to extract positive elements from a 2D list

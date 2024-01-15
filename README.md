@@ -1,4 +1,4 @@
-# Principles-of-Computing
+# Principles of Computing
 Homework for CMU's Python Course 15-110
 https://www.cs.cmu.edu/~15110/ 
 

@@ -1,5 +1,5 @@
 # HW-5 Text-based Memory Game 
-This assignment contains code for implementing a text-based game of Memory. Each problem corresponds to a specific aspect of the game's functionality.
+This assignment contains code for implementing a text-based game of Memory. Each problem corresponds to a specific aspect of the game's functionality
 
 ## Lists and Randomization
 To create the initial board of cards based on a list of words, incorporating concepts of lists and random shuffling

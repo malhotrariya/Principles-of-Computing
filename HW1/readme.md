@@ -9,5 +9,5 @@ Assign values to 'prof' and 'ta', then use a print statement to greet both using
 ## Using Function Calls
 Utilize random and math libraries to generate a random integer, convert it to radians, and print the relationship between the original integer and radians
 
-## Using Function CallsLibraries (Graphics) 
+## Libraries (Graphics) 
 Customize a graphic representation of the CMU Fence, meeting specific requirements
